@@ -3,7 +3,6 @@
 DEFAULT_SPEED = 60
 DEFAULT_CAPACITY = 10
 
-
 class Transport:
     """
     Базовый класс для описания транспорта.
